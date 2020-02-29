@@ -11,5 +11,6 @@
 ##### cmake ..  
 ##### make  
 ##### ./optimize [arg1] [arg2]
-  
+
+## Demo  
 ![gif](https://github.com/LeisureLei/Matrix-direct-product-method/blob/master/GIF.gif)
