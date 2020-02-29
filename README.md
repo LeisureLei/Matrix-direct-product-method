@@ -6,3 +6,5 @@ mkdir build
 cd build  
 cmake ..  
 make   
+  
+![gif](https://github.com/LeisureLei/Matrix-direct-product-method/blob/master/GIF.gif)
